@@ -30,7 +30,7 @@ ALLOWED_HOSTS = ["vk-bot-cmit.herokuapp.com/"]
 
 # Application definition
 
-CORS_ORIGIN_WHITELIST = ["https://34bc7cfe.ngrok.io"]
+CORS_ORIGIN_WHITELIST = ["https://vk-bot-cmit.herokuapp.com/"]
 
 INSTALLED_APPS = [
     'django.contrib.admin',
